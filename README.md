@@ -1,6 +1,6 @@
 ## Divide and Conquer
 
-1. [Merge sort]()
+1. [Merge sort](https://github.com/Drbelfast/geeksforgeeks/blob/master/mergesort.md)
 2. [Quick sort]()
 
 ### Exercise
