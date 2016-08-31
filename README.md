@@ -8,22 +8,27 @@
 1. [Power(x,n)]()
 2. [Median of two sorted array]()
 3. [Count inversions]()
+4. [Closest pair of points]()
 
 
+## Binary Tree
 
-## Binary Search Tree
+[Binary Tree]()
 
 ### Balanced binary search tree
 
 1. [AVL tree]()
 
-   First BBST invented
-
 2. [2 3 tree]()
-
 3. [Red black tree]()
-
 4. [Difference between AVL tree and Read black tree]()
+
+### Threaded Binary Tree
+
+1. [Introduction to Threaded Binary Tree]()
+2. [Single Threaded Binary Tree implementation]()
+3. [Double Threaded Binary Tree implementation]()
+4. [Convert BST to Threaded Binary Tree]()
 
 ### Exercise
 
@@ -51,11 +56,7 @@
 
 5. [Merge two BSTs with limited extra space](http://www.geeksforgeeks.org/merge-two-bsts-with-limited-extra-space/)
 
-    用stack 在Inorder 的时候，如果遇到偏大的一个node 再push回去
-
 6. [Two nodes of a BST are swapped, correct the BST]()
-
-    leetcode 原题
 
 7. [Contruct BST from given preorder traversal Set 1]()
 
@@ -63,5 +64,24 @@
 
 9. [Floor and Ceil from a BST]()
 
-    ​
+   ​
 
+
+## Heap
+
+1. [Heaps]()
+
+
+
+## Graph
+
+1. [Kruscal's algorithm]()
+2. [Prim's algorithm]()
+3. [Dijskstra's algorithm]()
+4. [Boyer Moore]()
+5. [Topogolical sort]()
+
+## String Pattern
+
+1. [KMP]()
+2. ​
